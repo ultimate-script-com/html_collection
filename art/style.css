@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    display: grid;
+    place-content: center;
+}
+
+body {
+    display: grid;
+    place-content: center;
+}
+
+header {
+    display: grid;
+    place-content: center;
+}
+
+main {
+    display: grid;
+    place-content: center;
+    height: 50dvmin;
+    width: 0dvmin;
+    position: relative;
+}

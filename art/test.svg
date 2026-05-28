@@ -1,0 +1,23 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="500"
+  height="300"
+  viewBox="0 0 500 300"
+>
+
+  <!-- 背景 -->
+  <rect
+    width="500"
+    height="300"
+    fill="white"
+  />
+
+  <!-- 赤い円 -->
+  <circle
+    cx="250"
+    cy="150"
+    r="90"
+    fill="red"
+  />kekk
+
+</svg>
